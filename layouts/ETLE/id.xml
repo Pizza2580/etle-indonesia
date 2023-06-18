@@ -31,9 +31,9 @@
 			<button type="tag" label="Jalan Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
 		</row>
 		<row>
-			<button type="picture" label="Foto" icon="logo_camera"/>
-			<button type="textnote" label="Catatan" icon="logo_textnote"/>
-			<button type="voicerec" Rekaman Suara" icon="logo_voice"/>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
 		</row>
         </layout>
 	<layout name="lalulintas">
@@ -44,9 +44,9 @@
 			<button type="tag" label="Jalan - Kubah" icon="etle_icons/etleredlightdome.png"/>
 		</row>
 		<row>
-			<button type="picture" label="Foto" icon="logo_camera"/>
-			<button type="textnote" label="Catatan" icon="logo_textnote"/>
-			<button type="voicerec" Rekaman Suara" icon="logo_voice"/>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
 		</row>
         </layout>
 	<layout name="rambu">
@@ -55,9 +55,9 @@
 			<button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
 		</row>
 		<row>
-			<button type="picture" label="Foto" icon="logo_camera"/>
-			<button type="textnote" label="Catatan" icon="logo_textnote"/>
-			<button type="voicerec" Rekaman Suara" icon="logo_voice"/>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
 		</row>
 	</layout>
 </layouts>
