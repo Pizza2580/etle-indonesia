@@ -55,7 +55,7 @@
 			<button type="tag" label="Jl. Lain | Ke-2" icon="etle_icons/etleotherroadboth.png"/>
 			<button type="tag" label="Jl. Lain | Kubah" icon="etle_icons/etleotherroaddome.png"/>
 			<button type="tag" label="Rmb. Prngtn. ETLE" icon="etle_icons/cctvspeedwarning.png"/>
-			<button type="tag" label="Rmb. Prngtn. Kec." icon="etle_icons/radarspeedsign.png"/>
+			<button type="tag" label="Rmb. Radar Kec." icon="etle_icons/radarspeedsign.png"/>
 		</row>
 		
 	</layout>
