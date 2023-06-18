@@ -6,6 +6,6 @@
 
 ###
 
-<h4 align="center">Terdapat dua mode: <br> ETLE lampu lalu lintas, ETLE kecepatan, dan rambu-rambu peringatan ETLE</h3>
+<h4 align="center">Terdapat tiga mode: <br> ETLE lampu lalu lintas, ETLE kecepatan, dan rambu-rambu peringatan ETLE</h3>
 
 ###
