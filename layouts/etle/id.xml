@@ -6,9 +6,9 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
 		<row>
-		    <button type="page" label="Kamera Kecepatan ETLE" targetlayout="kecepatan" icon="etle_icons/speedcamera.png"/>
-		    <button type="page" label="Kamera Lampu Lalu Lintas ETLE" targetlayout="lalu_lintas" icon="etle_icons/redlightcam.png"/>
-	            <button type="page" label="Rambu-Rambu Peringatan ETLE" targetlayout="rambu" icon="etle_icons/trafficsign.png"/>
+		    <button type="page" label="Kamera Kecepatan" targetlayout="kecepatan" icon="etle_icons/speedcamera.png"/>
+		    <button type="page" label="Kamera Lampu Lalu Lintas" targetlayout="lalu_lintas" icon="etle_icons/redlightcam.png"/>
+	            <button type="page" label="Rambu-Rambu Peringatan" targetlayout="rambu" icon="etle_icons/trafficsign.png"/>
 		</row>
         </layout>
 	<layout name="kecepatan">
