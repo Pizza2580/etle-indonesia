@@ -25,10 +25,10 @@
 		    <button type="tag" label="Jalan - Kubah" icon="etle_icons/etleroaddome.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="Jalan Lain - Depan" icon="etle_icons/etleotherroadfront.png"/>
-		    <button type="tag" label="Jalan Lain - Belakang" icon="etle_icons/etleotherroadback.png"/>
-		    <button type="tag" label="Jalan Lain - Keduanya" icon="etle_icons/etleotherroadboth.png"/>
-		    <button type="tag" label="Jalan Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
+		    <button type="tag" label="Jl. Lain - Depan" icon="etle_icons/etleotherroadfront.png"/>
+		    <button type="tag" label="Jl. Lain - Belakang" icon="etle_icons/etleotherroadback.png"/>
+		    <button type="tag" label="Jl. Lain - Keduanya" icon="etle_icons/etleotherroadboth.png"/>
+		    <button type="tag" label="Jl. Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
 		</row>
         </layout>
 	<layout name="lalu_lintas">
