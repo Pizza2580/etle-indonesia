@@ -6,6 +6,6 @@
 
 ###
 
-<h4 align="center">Terdapat dua mode: <br>Mode Vertikal dan Mode Horizontal.</h3>
+<h4 align="center">Terdapat dua mode: <br> ETLE lampu lalu lintas, ETLE kecepatan, dan rambu-rambu peringatan ETLE</h3>
 
 ###
