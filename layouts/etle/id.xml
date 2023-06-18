@@ -6,7 +6,7 @@
 		    <button type="voicerec" icon="logo_voice"/>
 		</row>
 		<row>
-		    <button type="page" label="Kamera Kecepatan" targetlayout="kecepatan">
+		    <button type="page" label="Kamera Kecepatan" targetlayout="kecepatan"/>
 		    <button type="page" label="Kamera Lampu Lalu Lintas" targetlayout="lalu_lintas"/>
 	            <button type="page" label="Rambu-Rambu" targetlayout="rambu"/>
 		</row>
@@ -30,11 +30,6 @@
 		    <button type="tag" label="Jalan Lain - Keduanya" icon="etle_icons/etleotherroadboth.png"/>
 		    <button type="tag" label="Jalan Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
 		</row>
-		<row>
-		    <button type="picture" label="Foto" icon="logo_camera"/>
-	            <button type="textnote" label="Catatan" icon="logo_textnote"/>
-		    <button type="voicerec" Rekaman Suara" icon="logo_voice"/>
-		</row>
         </layout>
 	<layout name="lalu_lintas">
 		<row>
@@ -48,11 +43,6 @@
 		<row>
                     <button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
 		    <button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
-		</row>
-		<row>
-		    <button type="picture" label="Foto" icon="logo_camera"/>
-		    <button type="textnote" label="Catatan" icon="logo_textnote"/>
-		    <button type="voicerec" Rekaman Suara" icon="logo_voice"/>
 		</row>
 	</layout>
 	
