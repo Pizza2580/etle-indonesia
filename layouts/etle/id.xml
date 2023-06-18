@@ -6,8 +6,8 @@
 			<button type="voicerec" icon="logo_voice"/>
 		</row>
 		<row>
-			<button type="page" label="Landscape" targetlayout="landscape"/>
-			<button type="page" label="Portrait" targetlayout="portrait"/>
+			<button type="page" label="Mode Horizontal" targetlayout="landscape"/>
+			<button type="page" label="Mode Vertikal" targetlayout="portrait"/>
 		</row>
         </layout>
 	<layout name="portrait">
@@ -33,6 +33,7 @@
 		</row>
 		<row>
 			<button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
+			<button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
 		</row>
         </layout>
 	<layout name="landscape">
@@ -54,6 +55,7 @@
 			<button type="tag" label="Jalan Lain - Keduanya" icon="etle_icons/etleotherroadboth.png"/>
 			<button type="tag" label="Jalan Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
 			<button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
+			<button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
 		</row>
 		
 	</layout>
