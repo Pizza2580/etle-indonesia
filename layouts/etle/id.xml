@@ -38,24 +38,24 @@
         </layout>
 	<layout name="landscape">
 		<row>
-			<button type="tag" label="Tengah Jalan - Depan" icon="etle_icons/etlemiddlefront.png"/>
-			<button type="tag" label="Tengah Jalan - Belakang" icon="etle_icons/etlemiddleback.png"/>
-			<button type="tag" label="Tengah Jalan - Keduanya" icon="etle_icons/etlemiddleboth.png"/>
-			<button type="tag" label="Tengah Jalan - Kubah" icon="etle_icons/etlemiddledome.png"/>
-			<button type="tag" label="Jalan - Depan" icon="etle_icons/etleroadfront.png"/>
+			<button type="tag" label="Tngh Jl. | Depan" icon="etle_icons/etlemiddlefront.png"/>
+			<button type="tag" label="Tngh Jl. | Belkng" icon="etle_icons/etlemiddleback.png"/>
+			<button type="tag" label="Tngh Jl. | Ke-2" icon="etle_icons/etlemiddleboth.png"/>
+			<button type="tag" label="Tngh Jl. | Kubah" icon="etle_icons/etlemiddledome.png"/>
+			<button type="tag" label="Jl. | Depan" icon="etle_icons/etleroadfront.png"/>
 		</row>
 		<row>
-			<button type="tag" label="Jalan - Belakang" icon="etle_icons/etleroadback.png"/>
-			<button type="tag" label="Jalan - Keduanya" icon="etle_icons/etleroadboth.png"/>
-			<button type="tag" label="Jalan - Kubah" icon="etle_icons/etleroaddome.png"/>
-			<button type="tag" label="Jalan Lain - Depan" icon="etle_icons/etleotherroadfront.png"/>
-			<button type="tag" label="Jalan Lain - Belakang" icon="etle_icons/etleotherroadback.png"/>
+			<button type="tag" label="Jl. | Belkng" icon="etle_icons/etleroadback.png"/>
+			<button type="tag" label="Jl. | Ke-2" icon="etle_icons/etleroadboth.png"/>
+			<button type="tag" label="Jl. | Kubah" icon="etle_icons/etleroaddome.png"/>
+			<button type="tag" label="Jl. Lain | Depan" icon="etle_icons/etleotherroadfront.png"/>
+			<button type="tag" label="Jl. Lain | Belkng" icon="etle_icons/etleotherroadback.png"/>
 		</row>
 		<row>
-			<button type="tag" label="Jalan Lain - Keduanya" icon="etle_icons/etleotherroadboth.png"/>
-			<button type="tag" label="Jalan Lain - Kubah" icon="etle_icons/etleotherroaddome.png"/>
-			<button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
-			<button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
+			<button type="tag" label="Jl. Lain | Ke-2" icon="etle_icons/etleotherroadboth.png"/>
+			<button type="tag" label="Jl. Lain | Kubah" icon="etle_icons/etleotherroaddome.png"/>
+			<button type="tag" label="Rmb. Prngtn. ETLE" icon="etle_icons/cctvspeedwarning.png"/>
+			<button type="tag" label="Rmb. Prngtn. Kec." icon="etle_icons/radarspeedsign.png"/>
 		</row>
 		
 	</layout>
