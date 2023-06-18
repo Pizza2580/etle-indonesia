@@ -13,10 +13,10 @@
         </layout>
 	<layout name="kecepatan">
 		<row>
-		    <button type="tag" label="Tngh Jl. - Dpn" icon="etle_icons/etlemiddlefront.png"/>
-		    <button type="tag" label="Tngh Jl - Blkng" icon="etle_icons/etlemiddleback.png"/>
-		    <button type="tag" label="Tngh Jl. - Ke-2" icon="etle_icons/etlemiddleboth.png"/>
-		    <button type="tag" label="Tngh J. - Kubah" icon="etle_icons/etlemiddledome.png"/>
+		    <button type="tag" label="Tgh Jl. - Depan" icon="etle_icons/etlemiddlefront.png"/>
+		    <button type="tag" label="Tgh Jl. - Blkng" icon="etle_icons/etlemiddleback.png"/>
+		    <button type="tag" label="Tgh Jl. - Ke-2" icon="etle_icons/etlemiddleboth.png"/>
+		    <button type="tag" label="Tgh Jl. - Kubah" icon="etle_icons/etlemiddledome.png"/>
 		</row>
 		<row>
 		    <button type="tag" label="Jalan - Depan" icon="etle_icons/etleroadfront.png"/>
