@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Direkomendasikan untuk menggunakan hanya pada saat mengemudi kendaraan.</h3>
+<h3 align="center">Direkomendasikan untuk menggunakan hanya pada saat mengemudi kendaraan.</h3>
 
 ###
 
