@@ -1,4 +1,4 @@
-<h1 align="center">Tata Letak ETLE di Indonesia untuk OSMTracker</h1>
+<h1 align="center">Tata Letak Penegakan Lalu Lintas di Indonesia untuk OSMTracker</h1>
 
 ###
 
@@ -6,6 +6,6 @@
 
 ###
 
-<h4 align="center">Terdapat tiga mode: <br> ETLE lampu lalu lintas, ETLE kecepatan, dan rambu-rambu peringatan ETLE</h3>
+<h4 align="center">Terdapat empat mode: <br> "Kamera Kecepatan", "Kamera Lampu Lalu Lintas", "Rambu-Rambu Peringatan ETLE", dan "Batas Kecepatan"</h3>
 
 ###
