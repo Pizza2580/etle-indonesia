@@ -52,9 +52,9 @@
         </layout>
 	<layout name="rambu_rambu_peringatan">
 		<row>
-                    <button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
-		    <button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
-		    <button type="tag" label="Rambu ETLE di Depan" icon="etle_icons/etletrafficsign.png"/>
+                    <button type="tag" label="Rmb Prngtn ETLE" icon="etle_icons/cctvspeedwarning.png"/>
+		    <button type="tag" label="Rmb Radar Kecptn" icon="etle_icons/radarspeedsign.png"/>
+		    <button type="tag" label="Rmb ETLE di Dpn" icon="etle_icons/etletrafficsign.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
