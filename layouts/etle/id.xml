@@ -2,12 +2,14 @@
 <layouts>
         <layout name="root">
 		<row>
-		    <button type="page" label="Kam. Kec." targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png" iconpos="bottom"/>
-		    <button type="page" label="Kam. L'pu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png" iconpos="bottom"/>
-	            <button type="page" label="Rmb-Rmb P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="etle_icons/etletrafficsign.png" iconpos="bottom"/>
+		    <button type="page" label="Kam. Kec." targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png" iconpos="auto"/>
+		    <button type="page" label="Kam. L'pu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png" iconpos="auto"/>
 		</row>
 		<row>
-	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="etle_icons/80km.png" iconpos="bottom"/>
+	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="etle_icons/80km.png" iconpos="auto"/>
+	            <button type="page" label="Rmb-Rmb P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="etle_icons/etletrafficsign.png" iconpos="auto"/>
+		</row>
+	        <row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
