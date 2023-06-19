@@ -2,10 +2,10 @@
 <layouts>
         <layout name="root">
 		<row>
-		    <button type="page" label="Kam. Kecptn" targetlayout="kamera_kecepatan" icon="etle_id/speedcamera.png" iconpos="bottom"/>
-		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_id/redlightcam.png" iconpos="bottom"/>
+		    <button type="page" label="Kam. Kec." targetlayout="kamera_kecepatan" icon="etle_id/speedcamera.png" iconpos="bottom"/>
+		    <button type="page" label="Kam. Lmp Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_id/redlightcam.png" iconpos="bottom"/>
 	            <button type="page" label="Rmb-Rmb Pringtn ETLE" targetlayout="rambu_rambu_peringatan" icon="etle_id/etletrafficsign.png" iconpos="bottom"/>
-	            <button type="page" label="Batas Kecptn" targetlayout="batas_kecepatan" icon="etle_id/80km.png" iconpos="bottom"/>
+	            <button type="page" label="Bts Kec." targetlayout="batas_kecepatan" icon="etle_id/80km.png" iconpos="bottom"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
