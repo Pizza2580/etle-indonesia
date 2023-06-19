@@ -6,7 +6,7 @@
 		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="Penegakan_Lalu_Lintas_Indonesia_icons/redlightcam.png" iconpos="auto"/>
 		</row>
 		<row>
-	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80Km/Jam.png" iconpos="auto"/>
+	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png" iconpos="auto"/>
 	            <button type="page" label="Rmb-Rmb P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png" iconpos="auto"/>
 		</row>
 	        <row>
