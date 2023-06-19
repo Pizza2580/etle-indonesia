@@ -6,17 +6,17 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
 		<row>
-		    <button type="page" label="Kam. Kecepatan" targetlayout="kamera_kecepatan" icon="etle_icons/speedcameranew.png"/>
-		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcamnew.png"/>
-	            <button type="page" label="Rambu-Rambu Peringatan" targetlayout="rambu_rambu_peringatan" icon="etle_icons/trafficsignnew.png"/>
+		    <button type="page" label="Kam. Kecptn" targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png"/>
+		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png"/>
+	            <button type="page" label="Rambu-Rambu Pringtn" targetlayout="rambu_rambu_peringatan" icon="etle_icons/trafficsign.png"/>
 		</row>
         </layout>
 	<layout name="kamera_kecepatan">
 		<row>
-		    <button type="tag" label="Tgh Jl. | Dpn" icon="etle_icons/etlemiddlefrontnew.png"/>
-		    <button type="tag" label="Tgh Jl. | Blkng" icon="etle_icons/etlemiddlebacknew.png"/>
-		    <button type="tag" label="Tgh Jl. | Ke-2" icon="etle_icons/etlemiddlebothnew.png"/>
-		    <button type="tag" label="Tgh Jl. | Kubah" icon="etle_icons/etlemiddledomenew.png"/>
+		    <button type="tag" label="Tgh Jl. | Dpn" icon="etle_icons/etlemiddlefront.png"/>
+		    <button type="tag" label="Tgh Jl. | Blkng" icon="etle_icons/etlemiddleback.png"/>
+		    <button type="tag" label="Tgh Jl. | Ke-2" icon="etle_icons/etlemiddleboth.png"/>
+		    <button type="tag" label="Tgh Jl. | Kubah" icon="etle_icons/etlemiddledome.png"/>
 		</row>
 		<row>
 		    <button type="tag" label="Jl. | Dpn" icon="etle_icons/etleroadfront.png"/>
