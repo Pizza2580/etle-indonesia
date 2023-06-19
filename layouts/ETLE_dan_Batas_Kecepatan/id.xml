@@ -80,26 +80,6 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
 	</layout>
-	<layout name="batas_kecepatan">
-		<row>
-		    <button type="page" label="+ 10 KM" targetlayout="10" icon="maxspeed_id/10km.png"/>
-		    <button type="page" label="+ 20 KM" targetlayout="20" icon="maxspeed_id/20km.png"/>
-		    <button type="page" label="+ 30 KM" targetlayout="10" icon="maxspeed_id/30km.png"/>
-		</row>
-		<row>
-		    <button type="page" label="+ 40 KM" targetlayout="40" icon="maxspeed_id/40km.png"/>
-		    <button type="page" label="+ 50 KM" targetlayout="50" icon="maxspeed_id/50km.png"/>
-		    <button type="page" label="+ 60 KM" targetlayout="60" icon="maxspeed_id/60km.png"/>
-		</row>
-		<row>
-		    <button type="page" label="+ 70 KM" targetlayout="70" icon="maxspeed_id/70km.png"/>
-		    <button type="page" label="+ 80 KM" targetlayout="80" icon="maxspeed_id/80km.png"/>
-		    <button type="page" label="+ 90 KM" targetlayout="90" icon="maxspeed_id/90km.png"/>
-		</row>
-		<row>
-		    <button type="tag" label="100 KM" icon="maxspeed_id/100km.png"/>
-		</row>
-	</layout>
 	<layout name="10">
 		<row>
 		    <button type="tag" label="Maks 10 KM" icon="maxspeed_id/10km.png"/>
