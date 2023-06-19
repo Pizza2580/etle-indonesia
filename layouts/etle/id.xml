@@ -1,3 +1,4 @@
+<!--Tata letak dibuat oleh pizzaisbroken - Versi 2.0-->
 <layouts>
         <layout name="root">
 		<row>
@@ -40,7 +41,7 @@
 		<row>
 		    <button type="tag" label="Jl. | Dpn | Lampu" icon="etle_icons/etleredlightfront.png"/>
 		    <button type="tag" label="Jl. | Blkng | Lampu" icon="etle_icons/etleredlightback.png"/>
-		    <button type="tag" label="Jl. | Ke|2 | Lampu" icon="etle_icons/etleredlightboth.png"/>
+		    <button type="tag" label="Jl. | Ke-2 | Lampu" icon="etle_icons/etleredlightboth.png"/>
 		    <button type="tag" label="Jl. | Kubah | Lampu" icon="etle_icons/etleredlightdome.png"/>
 		</row>
 		<row>
@@ -62,3 +63,4 @@
 	</layout>
 	
 </layouts>
+<!--Tata letak dibuat oleh pizzaisbroken - Versi 2.0-->
