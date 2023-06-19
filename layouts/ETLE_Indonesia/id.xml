@@ -6,12 +6,12 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
 		<row>
-		    <button type="page" label="Kamera Kecepatan" targetlayout="kecepatan" icon="etle_icons/speedcamera.png"/>
-		    <button type="page" label="Kamera Lampu Lalu Lintas" targetlayout="lalu_lintas" icon="etle_icons/redlightcam.png"/>
-	            <button type="page" label="Rambu-Rambu Peringatan" targetlayout="rambu" icon="etle_icons/trafficsign.png"/>
+		    <button type="page" label="Kam. Kecepatan" targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png"/>
+		    <button type="page" label="Kam. Lampu Lalu Lintas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png"/>
+	            <button type="page" label="Rambu-Rambu Peringatan" targetlayout="rambu_rambu_peringatan" icon="etle_icons/trafficsign.png"/>
 		</row>
         </layout>
-	<layout name="kecepatan">
+	<layout name="kamera_kecepatan">
 		<row>
 		    <button type="tag" label="Tgh Jl. - Dpn" icon="etle_icons/etlemiddlefront.png"/>
 		    <button type="tag" label="Tgh Jl. - Blkng" icon="etle_icons/etlemiddleback.png"/>
@@ -36,7 +36,7 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
         </layout>
-	<layout name="lalu_lintas">
+	<layout name="kamera_lampu_lalu_lintas">
 		<row>
 		    <button type="tag" label="Jl. - Dpn - Lampu" icon="etle_icons/etleredlightfront.png"/>
 		    <button type="tag" label="Jl. - Blkng - Lampu" icon="etle_icons/etleredlightback.png"/>
@@ -49,7 +49,7 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
         </layout>
-	<layout name="rambu">
+	<layout name="rambu_rambu_peringatan">
 		<row>
                     <button type="tag" label="Rambu Peringatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
 		    <button type="tag" label="Rambu Radar Kecepatan" icon="etle_icons/radarspeedsign.png"/>
