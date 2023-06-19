@@ -1,35 +1,36 @@
-<!--Tata letak dibuat oleh pizzaisbroken - Versi 2.0-->
+<!--Tata letak dibuat oleh pizzaisbroken - Versi 3-->
 <layouts>
         <layout name="root">
+		<row>
+		    <button type="page" label="Kam. Kecptn" targetlayout="kamera_kecepatan" icon="etle_id/speedcamera.png" iconpos="bottom"/>
+		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_id/redlightcam.png" iconpos="bottom"/>
+	            <button type="page" label="Rmb-Rmb Pringtn ETLE" targetlayout="rambu_rambu_peringatan" icon="trafficsigns_id/etletrafficsign.png" iconpos="bottom"/>
+	            <button type="page" label="Batas Kecptn" targetlayout="batas_kecepatan" icon="maxspeed_id/80km.png" iconpos="bottom"/>
+		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
 		    <button type="textnote" label="Catatan" icon="logo_textnote"/>
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
-		<row>
-		    <button type="page" label="Kam. Kecptn" targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png" iconpos="bottom"/>
-		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png" iconpos="bottom"/>
-	            <button type="page" label="Rambu-Rambu Pringtn" targetlayout="rambu_rambu_peringatan" icon="etle_icons/etletrafficsign.png" iconpos="bottom"/>
-		</row>
         </layout>
 	<layout name="kamera_kecepatan">
 		<row>
-		    <button type="tag" label="Tgh Jl. | Dpn" icon="etle_icons/etlemiddlefront.png"/>
-		    <button type="tag" label="Tgh Jl. | Blkng" icon="etle_icons/etlemiddleback.png"/>
-		    <button type="tag" label="Tgh Jl. | Ke-2" icon="etle_icons/etlemiddleboth.png"/>
-		    <button type="tag" label="Tgh Jl. | Kubah" icon="etle_icons/etlemiddledome.png"/>
+		    <button type="tag" label="Tgh Jl. | Dpn" icon="etle_id/etlemiddlefront.png"/>
+		    <button type="tag" label="Tgh Jl. | Blkng" icon="etle_id/etlemiddleback.png"/>
+		    <button type="tag" label="Tgh Jl. | Ke-2" icon="etle_id/etlemiddleboth.png"/>
+		    <button type="tag" label="Tgh Jl. | Kubah" icon="etle_id/etlemiddledome.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="Jl. | Dpn" icon="etle_icons/etleroadfront.png"/>
-		    <button type="tag" label="Jl. | Blkng" icon="etle_icons/etleroadback.png"/>
-		    <button type="tag" label="Jl. | Ke-2" icon="etle_icons/etleroadboth.png"/>
-		    <button type="tag" label="Jl. | Kubah" icon="etle_icons/etleroaddome.png"/>
+		    <button type="tag" label="Jl. | Dpn" icon="etle_id/etleroadfront.png"/>
+		    <button type="tag" label="Jl. | Blkng" icon="etle_id/etleroadback.png"/>
+		    <button type="tag" label="Jl. | Ke-2" icon="etle_id/etleroadboth.png"/>
+		    <button type="tag" label="Jl. | Kubah" icon="etle_id/etleroaddome.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="Jl. Ln | Dpn" icon="etle_icons/etleotherroadfront.png"/>
-		    <button type="tag" label="Jl. Ln | Blkng" icon="etle_icons/etleotherroadback.png"/>
-		    <button type="tag" label="Jl. Ln | Ke-2" icon="etle_icons/etleotherroadboth.png"/>
-		    <button type="tag" label="Jl. Ln | Kubah" icon="etle_icons/etleotherroaddome.png"/>
+		    <button type="tag" label="Jl. Ln | Dpn" icon="etle_id/etleotherroadfront.png"/>
+		    <button type="tag" label="Jl. Ln | Blkng" icon="etle_id/etleotherroadback.png"/>
+		    <button type="tag" label="Jl. Ln | Ke-2" icon="etle_id/etleotherroadboth.png"/>
+		    <button type="tag" label="Jl. Ln | Kubah" icon="etle_id/etleotherroaddome.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
@@ -39,10 +40,10 @@
         </layout>
 	<layout name="kamera_lampu_lalu_lintas">
 		<row>
-		    <button type="tag" label="Jl. | Dpn | Lampu" icon="etle_icons/etleredlightfront.png"/>
-		    <button type="tag" label="Jl. | Blkng | Lampu" icon="etle_icons/etleredlightback.png"/>
-		    <button type="tag" label="Jl. | Ke-2 | Lampu" icon="etle_icons/etleredlightboth.png"/>
-		    <button type="tag" label="Jl. | Kubah | Lampu" icon="etle_icons/etleredlightdome.png"/>
+		    <button type="tag" label="Jl. | Dpn | Lampu" icon="etle_id/etleredlightfront.png"/>
+		    <button type="tag" label="Jl. | Blkng | Lampu" icon="etle_id/etleredlightback.png"/>
+		    <button type="tag" label="Jl. | Ke-2 | Lampu" icon="etle_id/etleredlightboth.png"/>
+		    <button type="tag" label="Jl. | Kubah | Lampu" icon="etle_id/etleredlightdome.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
@@ -52,9 +53,9 @@
         </layout>
 	<layout name="rambu_rambu_peringatan">
 		<row>
-                    <button type="tag" label="Rmb Prngtn ETLE" icon="etle_icons/cctvspeedwarning.png"/>
-		    <button type="tag" label="Rmb Radar Kecptn" icon="etle_icons/radarspeedsign.png"/>
-		    <button type="tag" label="Rmb ETLE di Dpn" icon="etle_icons/etletrafficsign.png"/>
+                    <button type="tag" label="Rmb Prngtn ETLE" icon="etle_id/cctvspeedwarning.png"/>
+		    <button type="tag" label="Rmb Radar Kecptn" icon="etle_id/radarspeedsign.png"/>
+		    <button type="tag" label="Rmb ETLE di Dpn" icon="etle_id/etletrafficsign.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
@@ -62,6 +63,91 @@
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
 		</row>
 	</layout>
+	<layout name="batas_kecepatan">
+		<row>
+		    <button type="page" label="+ 10 KM" targetlayout="10" icon="maxspeed_id/10km.png"/>
+		    <button type="page" label="+ 20 KM" targetlayout="20" icon="maxspeed_id/20km.png"/>
+		    <button type="page" label="+ 30 KM" targetlayout="10" icon="maxspeed_id/30km.png"/>
+		</row>
+		<row>
+		    <button type="page" label="+ 40 KM" targetlayout="40" icon="maxspeed_id/40km.png"/>
+		    <button type="page" label="+ 50 KM" targetlayout="50" icon="maxspeed_id/50km.png"/>
+		    <button type="page" label="+ 60 KM" targetlayout="60" icon="maxspeed_id/60km.png"/>
+		</row>
+		<row>
+		    <button type="page" label="+ 70 KM" targetlayout="70" icon="maxspeed_id/70km.png"/>
+		    <button type="page" label="+ 80 KM" targetlayout="80" icon="maxspeed_id/80km.png"/>
+		    <button type="page" label="+ 90 KM" targetlayout="90" icon="maxspeed_id/90km.png"/>
+		</row>
+		<row>
+		    <button type="tag" label="100 KM" icon="maxspeed_id/100km.png"/>
+		</row>
+	</layout>
+	<layout name="10">
+		<row>
+		    <button type="tag" label="Maks 10 KM" icon="maxspeed_id/10km.png"/>
+		    <button type="tag" label="Maks. 15 KM" icon="maxspeed_id/15km.png"/>
+		    <button type="tag" label="Min.  10 KM" icon="minspeed_id/10km.png"/>
+		    <button type="tag" label="Min. 15 KM" icon="minspeed_id/15km.png"/>
+		</row>
+	</layout>
+	<layout name="20">
+		<row>
+		    <button type="tag" label="Maks 20 KM" icon="maxspeed_id/20km.png"/>
+		    <button type="tag" label="Maks. 25 KM" icon="maxspeed_id/25km.png"/>
+		    <button type="tag" label="Min.  20 KM" icon="minspeed_id/20km.png"/>
+		    <button type="tag" label="Min. 25 KM" icon="minspeed_id/25km.png"/>
+		</row>
+	</layout>
+	<layout name="30">
+		<row>
+		    <button type="tag" label="Maks 30 KM" icon="maxspeed_id/30km.png"/>
+		    <button type="tag" label="Maks. 35 KM" icon="maxspeed_id/35km.png"/>
+		    <button type="tag" label="Min.  30 KM" icon="minspeed_id/30km.png"/>
+		    <button type="tag" label="Min. 35 KM" icon="minspeed_id/35km.png"/>
+		</row>
+	</layout>
+	<layout name="40">
+		<row>
+		    <button type="tag" label="Maks 40 KM" icon="maxspeed_id/40km.png"/>
+		    <button type="tag" label="Maks. 45 KM" icon="maxspeed_id/45km.png"/>
+		    <button type="tag" label="Min.  40 KM" icon="minspeed_id/40km.png"/>
+		    <button type="tag" label="Min. 45 KM" icon="minspeed_id/45km.png"/>
+		</row>
+	</layout>
+	<layout name="50">
+		<row>
+		    <button type="tag" label="Maks 50 KM" icon="maxspeed_id/50km.png"/>
+		    <button type="tag" label="Maks. 55 KM" icon="maxspeed_id/55km.png"/>
+		    <button type="tag" label="Min.  50 KM" icon="minspeed_id/50km.png"/>
+		    <button type="tag" label="Min. 55 KM" icon="minspeed_id/55km.png"/>
+		</row>
+	</layout>
+	<layout name="60">
+		<row>
+		    <button type="tag" label="Maks 60 KM" icon="maxspeed_id/60km.png"/>
+		    <button type="tag" label="Maks. 65 KM" icon="maxspeed_id/65km.png"/>
+		    <button type="tag" label="Min.  60 KM" icon="minspeed_id/60km.png"/>
+		</row>
+	</layout>
+	<layout name="70">
+		<row>
+		    <button type="tag" label="Maks 70 KM" icon="maxspeed_id/70km.png"/>
+		    <button type="tag" label="Maks. 75 KM" icon="maxspeed_id/75km.png"/>
+		</row>
+	</layout>
+	<layout name="80">
+		<row>
+		    <button type="tag" label="Maks 80 KM" icon="maxspeed_id/80km.png"/>
+		    <button type="tag" label="Maks. 85 KM" icon="maxspeed_id/85km.png"/>
+		</row>
+	</layout>
+	<layout name="90">
+		<row>
+		    <button type="tag" label="Maks 90 KM" icon="maxspeed_id/90km.png"/>
+		    <button type="tag" label="Maks. 95 KM" icon="maxspeed_id/95km.png"/>
+		</row>
+	</layout>
 	
 </layouts>
-<!--Tata letak dibuat oleh pizzaisbroken - Versi 2.0-->
+<!--Tata letak dibuat oleh pizzaisbroken - Versi 3-->
