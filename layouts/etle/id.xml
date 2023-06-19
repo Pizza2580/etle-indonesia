@@ -3,11 +3,11 @@
         <layout name="root">
 		<row>
 		    <button type="page" label="Kam. Kec." targetlayout="kamera_kecepatan" icon="etle_icons/speedcamera.png" iconpos="bottom"/>
-		    <button type="page" label="Kam. Lmp Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png" iconpos="bottom"/>
-	            <button type="page" label="Rmb-Rmb Pringtn ETLE" targetlayout="rambu_rambu_peringatan" icon="etle_icons/etletrafficsign.png" iconpos="bottom"/>
-	            <button type="page" label="Bts Kec." targetlayout="batas_kecepatan" icon="etle_icons/80km.png" iconpos="bottom"/>
+		    <button type="page" label="Kam. L'pu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="etle_icons/redlightcam.png" iconpos="bottom"/>
+	            <button type="page" label="Rmb-Rmb P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="etle_icons/etletrafficsign.png" iconpos="bottom"/>
 		</row>
 		<row>
+	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="etle_icons/80km.png" iconpos="bottom"/>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
 		    <button type="textnote" label="Catatan" icon="logo_textnote"/>
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
@@ -15,22 +15,22 @@
         </layout>
 	<layout name="kamera_kecepatan">
 		<row>
-		    <button type="tag" label="Tgh Jl. | Dpn" icon="etle_icons/etlemiddlefront.png"/>
-		    <button type="tag" label="Tgh Jl. | Blkng" icon="etle_icons/etlemiddleback.png"/>
-		    <button type="tag" label="Tgh Jl. | Ke-2" icon="etle_icons/etlemiddleboth.png"/>
-		    <button type="tag" label="Tgh Jl. | Kubah" icon="etle_icons/etlemiddledome.png"/>
+		    <button type="tag" label="T-Jl. | Depan" icon="etle_icons/etlemiddlefront.png"/>
+		    <button type="tag" label="T-Jl. | Bel'ng" icon="etle_icons/etlemiddleback.png"/>
+		    <button type="tag" label="T-Jl. | Keduanya" icon="etle_icons/etlemiddleboth.png"/>
+		    <button type="tag" label="T-Jl. | Kubah" icon="etle_icons/etlemiddledome.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="Jl. | Dpn" icon="etle_icons/etleroadfront.png"/>
-		    <button type="tag" label="Jl. | Blkng" icon="etle_icons/etleroadback.png"/>
-		    <button type="tag" label="Jl. | Ke-2" icon="etle_icons/etleroadboth.png"/>
+		    <button type="tag" label="Jl. | Depan" icon="etle_icons/etleroadfront.png"/>
+		    <button type="tag" label="Jl. | Bel'ng" icon="etle_icons/etleroadback.png"/>
+		    <button type="tag" label="Jl. | Keduanya" icon="etle_icons/etleroadboth.png"/>
 		    <button type="tag" label="Jl. | Kubah" icon="etle_icons/etleroaddome.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="Jl. Ln | Dpn" icon="etle_icons/etleotherroadfront.png"/>
-		    <button type="tag" label="Jl. Ln | Blkng" icon="etle_icons/etleotherroadback.png"/>
-		    <button type="tag" label="Jl. Ln | Ke-2" icon="etle_icons/etleotherroadboth.png"/>
-		    <button type="tag" label="Jl. Ln | Kubah" icon="etle_icons/etleotherroaddome.png"/>
+		    <button type="tag" label="Jl.-L | Depan" icon="etle_icons/etleotherroadfront.png"/>
+		    <button type="tag" label="Jl.-L | Bel'ng" icon="etle_icons/etleotherroadback.png"/>
+		    <button type="tag" label="Jl.-L | Keduanya" icon="etle_icons/etleotherroadboth.png"/>
+		    <button type="tag" label="Jl.-L | Kubah" icon="etle_icons/etleotherroaddome.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
@@ -40,9 +40,9 @@
         </layout>
 	<layout name="kamera_lampu_lalu_lintas">
 		<row>
-		    <button type="tag" label="Jl. | Dpn | Lampu" icon="etle_icons/etleredlightfront.png"/>
-		    <button type="tag" label="Jl. | Blkng | Lampu" icon="etle_icons/etleredlightback.png"/>
-		    <button type="tag" label="Jl. | Ke-2 | Lampu" icon="etle_icons/etleredlightboth.png"/>
+		    <button type="tag" label="Jl. | Depan | Lampu" icon="etle_icons/etleredlightfront.png"/>
+		    <button type="tag" label="Jl. | Bel'ng | Lampu" icon="etle_icons/etleredlightback.png"/>
+		    <button type="tag" label="Jl. | Keduanya | Lampu" icon="etle_icons/etleredlightboth.png"/>
 		    <button type="tag" label="Jl. | Kubah | Lampu" icon="etle_icons/etleredlightdome.png"/>
 		</row>
 		<row>
@@ -53,9 +53,9 @@
         </layout>
 	<layout name="rambu_rambu_peringatan">
 		<row>
-                    <button type="tag" label="Rmb Prngtn ETLE" icon="etle_icons/cctvspeedwarning.png"/>
-		    <button type="tag" label="Rmb Radar Kecptn" icon="etle_icons/radarspeedsign.png"/>
-		    <button type="tag" label="Rmb ETLE di Dpn" icon="etle_icons/etletrafficsign.png"/>
+                    <button type="tag" label="R'b P'ngatan ETLE" icon="etle_icons/cctvspeedwarning.png"/>
+		    <button type="tag" label="R'b Radar Kec." icon="etle_icons/radarspeedsign.png"/>
+		    <button type="tag" label="R'b ETLE di Depan" icon="etle_icons/etletrafficsign.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
