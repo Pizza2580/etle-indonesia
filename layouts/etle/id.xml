@@ -85,7 +85,7 @@
 	</layout>
 	<layout name="10">
 		<row>
-		    <button type="tag" label="Maks 10 KM" icon="maxspeed_id/10km.png"/>
+		    <button type="tag" label="Maks. 10 KM" icon="maxspeed_id/10km.png"/>
 		    <button type="tag" label="Maks. 15 KM" icon="maxspeed_id/15km.png"/>
 		    <button type="tag" label="Min.  10 KM" icon="minspeed_id/10km.png"/>
 		    <button type="tag" label="Min. 15 KM" icon="minspeed_id/15km.png"/>
@@ -93,7 +93,7 @@
 	</layout>
 	<layout name="20">
 		<row>
-		    <button type="tag" label="Maks 20 KM" icon="maxspeed_id/20km.png"/>
+		    <button type="tag" label="Maks. 20 KM" icon="maxspeed_id/20km.png"/>
 		    <button type="tag" label="Maks. 25 KM" icon="maxspeed_id/25km.png"/>
 		    <button type="tag" label="Min.  20 KM" icon="minspeed_id/20km.png"/>
 		    <button type="tag" label="Min. 25 KM" icon="minspeed_id/25km.png"/>
@@ -101,7 +101,7 @@
 	</layout>
 	<layout name="30">
 		<row>
-		    <button type="tag" label="Maks 30 KM" icon="maxspeed_id/30km.png"/>
+		    <button type="tag" label="Maks. 30 KM" icon="maxspeed_id/30km.png"/>
 		    <button type="tag" label="Maks. 35 KM" icon="maxspeed_id/35km.png"/>
 		    <button type="tag" label="Min.  30 KM" icon="minspeed_id/30km.png"/>
 		    <button type="tag" label="Min. 35 KM" icon="minspeed_id/35km.png"/>
@@ -109,7 +109,7 @@
 	</layout>
 	<layout name="40">
 		<row>
-		    <button type="tag" label="Maks 40 KM" icon="maxspeed_id/40km.png"/>
+		    <button type="tag" label="Maks. 40 KM" icon="maxspeed_id/40km.png"/>
 		    <button type="tag" label="Maks. 45 KM" icon="maxspeed_id/45km.png"/>
 		    <button type="tag" label="Min.  40 KM" icon="minspeed_id/40km.png"/>
 		    <button type="tag" label="Min. 45 KM" icon="minspeed_id/45km.png"/>
@@ -117,7 +117,7 @@
 	</layout>
 	<layout name="50">
 		<row>
-		    <button type="tag" label="Maks 50 KM" icon="maxspeed_id/50km.png"/>
+		    <button type="tag" label="Maks. 50 KM" icon="maxspeed_id/50km.png"/>
 		    <button type="tag" label="Maks. 55 KM" icon="maxspeed_id/55km.png"/>
 		    <button type="tag" label="Min.  50 KM" icon="minspeed_id/50km.png"/>
 		    <button type="tag" label="Min. 55 KM" icon="minspeed_id/55km.png"/>
@@ -125,26 +125,26 @@
 	</layout>
 	<layout name="60">
 		<row>
-		    <button type="tag" label="Maks 60 KM" icon="maxspeed_id/60km.png"/>
+		    <button type="tag" label="Maks. 60 KM" icon="maxspeed_id/60km.png"/>
 		    <button type="tag" label="Maks. 65 KM" icon="maxspeed_id/65km.png"/>
 		    <button type="tag" label="Min.  60 KM" icon="minspeed_id/60km.png"/>
 		</row>
 	</layout>
 	<layout name="70">
 		<row>
-		    <button type="tag" label="Maks 70 KM" icon="maxspeed_id/70km.png"/>
+		    <button type="tag" label="Maks. 70 KM" icon="maxspeed_id/70km.png"/>
 		    <button type="tag" label="Maks. 75 KM" icon="maxspeed_id/75km.png"/>
 		</row>
 	</layout>
 	<layout name="80">
 		<row>
-		    <button type="tag" label="Maks 80 KM" icon="maxspeed_id/80km.png"/>
+		    <button type="tag" label="Maks. 80 KM" icon="maxspeed_id/80km.png"/>
 		    <button type="tag" label="Maks. 85 KM" icon="maxspeed_id/85km.png"/>
 		</row>
 	</layout>
 	<layout name="90">
 		<row>
-		    <button type="tag" label="Maks 90 KM" icon="maxspeed_id/90km.png"/>
+		    <button type="tag" label="Maks. 90 KM" icon="maxspeed_id/90km.png"/>
 		    <button type="tag" label="Maks. 95 KM" icon="maxspeed_id/95km.png"/>
 		</row>
 	</layout>
