@@ -9,8 +9,10 @@
 		<row>
 	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="etle_icons/80km.png" iconpos="bottom"/>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
-		    <button type="textnote" label="Catatan" icon="logo_textnote"/>
 		    <button type="voicerec" label="Rekaman Suara" icon="logo_voice"/>
+		</row>
+		<row>
+		    <button type="textnote" label="Catatan" icon="logo_textnote"/>
 		</row>
         </layout>
 	<layout name="kamera_kecepatan">
@@ -40,10 +42,10 @@
         </layout>
 	<layout name="kamera_lampu_lalu_lintas">
 		<row>
-		    <button type="tag" label="Jl. | Depan | Lampu" icon="etle_icons/etleredlightfront.png"/>
-		    <button type="tag" label="Jl. | Bel'ng | Lampu" icon="etle_icons/etleredlightback.png"/>
-		    <button type="tag" label="Jl. | Keduanya | Lampu" icon="etle_icons/etleredlightboth.png"/>
-		    <button type="tag" label="Jl. | Kubah | Lampu" icon="etle_icons/etleredlightdome.png"/>
+		    <button type="tag" label="Jl. | Depan | L'pu" icon="etle_icons/etleredlightfront.png"/>
+		    <button type="tag" label="Jl. | Bel'ng | L'pu" icon="etle_icons/etleredlightback.png"/>
+		    <button type="tag" label="Jl. | Keduanya | L'pu" icon="etle_icons/etleredlightboth.png"/>
+		    <button type="tag" label="Jl. | Kubah | L'pu" icon="etle_icons/etleredlightdome.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
