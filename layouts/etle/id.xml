@@ -71,7 +71,7 @@
 		<row>
 		    <button type="page" label="+ 10 KM" targetlayout="10" icon="etle_icons/10km.png"/>
 		    <button type="page" label="+ 20 KM" targetlayout="20" icon="etle_icons/20km.png"/>
-		    <button type="page" label="+ 30 KM" targetlayout="10" icon="etle_icons/30km.png"/>
+		    <button type="page" label="+ 30 KM" targetlayout="30" icon="etle_icons/30km.png"/>
 		</row>
 		<row>
 		    <button type="page" label="+ 40 KM" targetlayout="40" icon="etle_icons/40km.png"/>
