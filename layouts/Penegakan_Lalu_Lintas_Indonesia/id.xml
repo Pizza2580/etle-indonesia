@@ -73,87 +73,87 @@
 	</layout>
 	<layout name="batas_kecepatan">
 		<row>
-		    <button type="page" label="+ 10 Km/Jam" targetlayout="10" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
-		    <button type="page" label="+ 20 Km/Jam" targetlayout="20" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
-		    <button type="page" label="+ 30 Km/Jam" targetlayout="30" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
+		    <button type="page" label="+ 10 Km/J" targetlayout="10" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
+		    <button type="page" label="+ 20 Km/J" targetlayout="20" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
+		    <button type="page" label="+ 30 Km/J" targetlayout="30" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
 		</row>
 		<row>
-		    <button type="page" label="+ 40 Km/Jam" targetlayout="40" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
-		    <button type="page" label="+ 50 Km/Jam" targetlayout="50" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
-		    <button type="page" label="+ 60 Km/Jam" targetlayout="60" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
+		    <button type="page" label="+ 40 Km/J" targetlayout="40" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
+		    <button type="page" label="+ 50 Km/J" targetlayout="50" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
+		    <button type="page" label="+ 60 Km/J" targetlayout="60" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
 		</row>
 		<row>
-		    <button type="page" label="+ 70 Km/Jam" targetlayout="70" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
-		    <button type="page" label="+ 80 Km/Jam" targetlayout="80" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
-		    <button type="page" label="+ 90 Km/Jam" targetlayout="90" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
+		    <button type="page" label="+ 70 Km/J" targetlayout="70" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
+		    <button type="page" label="+ 80 Km/J" targetlayout="80" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
+		    <button type="page" label="+ 90 Km/J" targetlayout="90" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
 		</row>
 		<row>
-		    <button type="tag" label="100 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/100km.png"/>
+		    <button type="tag" label="100 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/100km.png"/>
 		</row>
 	</layout>
 	<layout name="10">
 		<row>
-		    <button type="tag" label="Maksimum: 10 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
-		    <button type="tag" label="Maksimum: 15 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km.png"/>
-		    <button type="tag" label="Minimum: 10 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km2.png"/>
-		    <button type="tag" label="Minimum: 15 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km2.png"/>
+		    <button type="tag" label="Maks • 10 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
+		    <button type="tag" label="Maks • 15 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km.png"/>
+		    <button type="tag" label="Min • 10 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km2.png"/>
+		    <button type="tag" label="Min • 15 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km2.png"/>
 		</row>
 	</layout>
 	<layout name="20">
 		<row>
-		    <button type="tag" label="Maksimum: 20 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
-		    <button type="tag" label="Maksimum: 25 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km.png"/>
-		    <button type="tag" label="Minimum: 20 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km2.png"/>
-		    <button type="tag" label="Minimum: 25 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km2.png"/>
+		    <button type="tag" label="Maks • 20 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
+		    <button type="tag" label="Maks • 25 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km.png"/>
+		    <button type="tag" label="Min • 20 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km2.png"/>
+		    <button type="tag" label="Min • 25 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km2.png"/>
 		</row>
 	</layout>
 	<layout name="30">
 		<row>
-		    <button type="tag" label="Maksimum: 30 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
-		    <button type="tag" label="Maksimum: 35 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km.png"/>
-		    <button type="tag" label="Minimum: 30 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km2.png"/>
-		    <button type="tag" label="Minimum: 35 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km2.png"/>
+		    <button type="tag" label="Maks • 30 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
+		    <button type="tag" label="Maks • 35 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km.png"/>
+		    <button type="tag" label="Min • 30 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km2.png"/>
+		    <button type="tag" label="Min • 35 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km2.png"/>
 		</row>
 	</layout>
 	<layout name="40">
 		<row>
-		    <button type="tag" label="Maksimum: 40 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
-		    <button type="tag" label="Maksimum: 45 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km.png"/>
-		    <button type="tag" label="Minimum: 40 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km2.png"/>
-		    <button type="tag" label="Minimum: 45 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km2.png"/>
+		    <button type="tag" label="Maks • 40 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
+		    <button type="tag" label="Maks • 45 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km.png"/>
+		    <button type="tag" label="Min • 40 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km2.png"/>
+		    <button type="tag" label="Min • 45 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km2.png"/>
 		</row>
 	</layout>
 	<layout name="50">
 		<row>
-		    <button type="tag" label="Maksimum: 50 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
-		    <button type="tag" label="Maksimum: 55 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km.png"/>
-		    <button type="tag" label="Minimum: 50 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km2.png"/>
-		    <button type="tag" label="Minimum: 55 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km2.png"/>
+		    <button type="tag" label="Maks • 50 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
+		    <button type="tag" label="Maks • 55 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km.png"/>
+		    <button type="tag" label="Min • 50 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km2.png"/>
+		    <button type="tag" label="Min • 55 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km2.png"/>
 		</row>
 	</layout>
 	<layout name="60">
 		<row>
-		    <button type="tag" label="Maksimum: 60 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
-		    <button type="tag" label="Maksimum: 65 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/65km.png"/>
-		    <button type="tag" label="Minimum: 60 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km2.png"/>
+		    <button type="tag" label="Maks • 60 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
+		    <button type="tag" label="Maks • 65 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/65km.png"/>
+		    <button type="tag" label="Min • 60 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km2.png"/>
 		</row>
 	</layout>
 	<layout name="70">
 		<row>
-		    <button type="tag" label="Maksimum: 70 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
-		    <button type="tag" label="Maksimum: 75 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/75km.png"/>
+		    <button type="tag" label="Maks • 70 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
+		    <button type="tag" label="Maks • 75 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/75km.png"/>
 		</row>
 	</layout>
 	<layout name="80">
 		<row>
-		    <button type="tag" label="Maksimum: 80 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
-		    <button type="tag" label="Maksimum: 85 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/85km.png"/>
+		    <button type="tag" label="Maks • 80 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
+		    <button type="tag" label="Maks • 85 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/85km.png"/>
 		</row>
 	</layout>
 	<layout name="90">
 		<row>
-		    <button type="tag" label="Maksimum: 90 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
-		    <button type="tag" label="Maksimum: 95 Km/Jam" icon="Penegakan_Lalu_Lintas_Indonesia_icons/95km.png"/>
+		    <button type="tag" label="Maks • 90 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
+		    <button type="tag" label="Maks • 95 Km/J" icon="Penegakan_Lalu_Lintas_Indonesia_icons/95km.png"/>
 		</row>
 	</layout>
 	
