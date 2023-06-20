@@ -62,7 +62,7 @@
 	<layout name="rambu_rambu_peringatan">
 		<row>
                     <button type="tag" label="ETLE Warning Sign" icon="Indonesia_Traffic_Enforcement_icons/cctvspeedwarning.png"/>
-		    <button type="tag" label="Radar Speed Sign." icon="Indonesia_Traffic_Enforcement_icons/radarspeedsign.png"/>
+		    <button type="tag" label="Radar Speed Sign" icon="Indonesia_Traffic_Enforcement_icons/radarspeedsign.png"/>
 		    <button type="tag" label="ETLE in Front Sign" icon="Indonesia_Traffic_Enforcement_icons/etletrafficsign.png"/>
 		</row>
 		<row>
