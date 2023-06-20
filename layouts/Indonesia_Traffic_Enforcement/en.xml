@@ -1,0 +1,161 @@
+<!--This button layout for OSMTracker is made by pizzaisbroken (pizzaisbroken/osmtracker-penegakan-lalu-lintas-indonesia/master) - Version 4.1-->
+<layouts>
+        <layout name="root">
+		<row>
+		    <button type="page" label="Speed Cam" targetlayout="kamera_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/speedcamera.png" iconpos="auto"/>
+		    <button type="page" label="Red Light Cam" targetlayout="kamera_lampu_lalu_lintas" icon="Penegakan_Lalu_Lintas_Indonesia_icons/redlightcam.png" iconpos="auto"/>
+		</row>
+		<row>
+	            <button type="page" label="Speed Limit" targetlayout="batas_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png" iconpos="auto"/>
+	            <button type="page" label="ETLE Warning Signs" targetlayout="rambu_rambu_peringatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png" iconpos="auto"/>
+		</row>
+	        <row>
+		    <button type="picture" label="Photo" icon="logo_camera"/>
+		    <button type="voicerec" label="Voice Record" icon="logo_voice"/>
+		</row>
+		<row>
+		    <button type="textnote" label="Note" icon="logo_textnote"/>
+		</row>
+        </layout>
+	<layout name="kamera_kecepatan">
+		<row>
+		    <button type="tag" label="M-Rd. • Front" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etlemiddlefront.png"/>
+		    <button type="tag" label="M-Rd. • Back" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etlemiddleback.png"/>
+		    <button type="tag" label="M-Rd. • Both" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etlemiddleboth.png"/>
+		    <button type="tag" label="M-Rd. • Dome" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etlemiddledome.png"/>
+		</row>
+		<row>
+		    <button type="tag" label="Rd. • Front" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleroadfront.png"/>
+		    <button type="tag" label="Rd. • Back" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleroadback.png"/>
+		    <button type="tag" label="Rd. • Both" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleroadboth.png"/>
+		    <button type="tag" label="Rd. • Dome" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleroaddome.png"/>
+		</row>
+		<row>
+		    <button type="tag" label="O-Rd. • Front" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleotherroadfront.png"/>
+		    <button type="tag" label="O-Rd. • Back" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleotherroadback.png"/>
+		    <button type="tag" label="O-Rd. • Both" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleotherroadboth.png"/>
+		    <button type="tag" label="O-Rd. • Dome" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleotherroaddome.png"/>
+		</row>
+		<row>
+		    <button type="picture" label="Photo" icon="logo_camera"/>
+		    <button type="textnote" label="Note" icon="logo_textnote"/>
+		    <button type="voicerec" label="Voice Record" icon="logo_voice"/>
+		</row>
+        </layout>
+	<layout name="kamera_lampu_lalu_lintas">
+		<row>
+		    <button type="tag" label="Rd. • Front • RLC" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightfront.png"/>
+		    <button type="tag" label="Rd. • Back • RLC" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightback.png"/>
+                </row>
+                <row>
+		    <button type="tag" label="Rd. • Both • RLC" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightboth.png"/>
+		    <button type="tag" label="Rd. • Dome • RLC" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightdome.png"/>
+		</row>
+		<row>
+		    <button type="picture" label="Photo" icon="logo_camera"/>
+		    <button type="voicerec" label="Voice Record" icon="logo_voice"/>
+		</row>
+                <row>
+		    <button type="textnote" label="Note" icon="logo_textnote"/>
+                </row>
+        </layout>
+	<layout name="rambu_rambu_peringatan">
+		<row>
+                    <button type="tag" label="ETLE Warning Sign" icon="Penegakan_Lalu_Lintas_Indonesia_icons/cctvspeedwarning.png"/>
+		    <button type="tag" label="Radar Speed Sign." icon="Penegakan_Lalu_Lintas_Indonesia_icons/radarspeedsign.png"/>
+		    <button type="tag" label="ETLE in Front Sign" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png"/>
+		</row>
+		<row>
+		    <button type="picture" label="Photo" icon="logo_camera"/>
+		    <button type="textnote" label="Note" icon="logo_textnote"/>
+		    <button type="voicerec" label="Voice Record" icon="logo_voice"/>
+		</row>
+	</layout>
+	<layout name="batas_kecepatan">
+		<row>
+		    <button type="page" label="+ 10 Km/H" targetlayout="10" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
+		    <button type="page" label="+ 20 Km/H" targetlayout="20" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
+		    <button type="page" label="+ 30 Km/H" targetlayout="30" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
+		</row>
+		<row>
+		    <button type="page" label="+ 40 Km/H" targetlayout="40" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
+		    <button type="page" label="+ 50 Km/H" targetlayout="50" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
+		    <button type="page" label="+ 60 Km/H" targetlayout="60" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
+		</row>
+		<row>
+		    <button type="page" label="+ 70 Km/H" targetlayout="70" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
+		    <button type="page" label="+ 80 Km/H" targetlayout="80" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
+		    <button type="page" label="+ 90 Km/H" targetlayout="90" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
+		</row>
+		<row>
+		    <button type="tag" label="100 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/100km.png"/>
+		</row>
+	</layout>
+	<layout name="10">
+		<row>
+		    <button type="tag" label="Max • 10 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km.png"/>
+		    <button type="tag" label="Max • 15 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km.png"/>
+		    <button type="tag" label="Min • 10 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/10km2.png"/>
+		    <button type="tag" label="Min • 15 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/15km2.png"/>
+		</row>
+	</layout>
+	<layout name="20">
+		<row>
+		    <button type="tag" label="Max • 20 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km.png"/>
+		    <button type="tag" label="Max • 25 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km.png"/>
+		    <button type="tag" label="Min • 20 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/20km2.png"/>
+		    <button type="tag" label="Min • 25 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/25km2.png"/>
+		</row>
+	</layout>
+	<layout name="30">
+		<row>
+		    <button type="tag" label="Max • 30 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km.png"/>
+		    <button type="tag" label="Max • 35 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km.png"/>
+		    <button type="tag" label="Min • 30 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/30km2.png"/>
+		    <button type="tag" label="Min • 35 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/35km2.png"/>
+		</row>
+	</layout>
+	<layout name="40">
+		<row>
+		    <button type="tag" label="Max • 40 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km.png"/>
+		    <button type="tag" label="Max • 45 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km.png"/>
+		    <button type="tag" label="Min • 40 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/40km2.png"/>
+		    <button type="tag" label="Min • 45 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/45km2.png"/>
+		</row>
+	</layout>
+	<layout name="50">
+		<row>
+		    <button type="tag" label="Max • 50 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km.png"/>
+		    <button type="tag" label="Max • 55 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km.png"/>
+		    <button type="tag" label="Min • 50 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/50km2.png"/>
+		    <button type="tag" label="Min • 55 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/55km2.png"/>
+		</row>
+	</layout>
+	<layout name="60">
+		<row>
+		    <button type="tag" label="Max • 60 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km.png"/>
+		    <button type="tag" label="Max • 65 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/65km.png"/>
+		    <button type="tag" label="Min • 60 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/60km2.png"/>
+		</row>
+	</layout>
+	<layout name="70">
+		<row>
+		    <button type="tag" label="Max • 70 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/70km.png"/>
+		    <button type="tag" label="Max • 75 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/75km.png"/>
+		</row>
+	</layout>
+	<layout name="80">
+		<row>
+		    <button type="tag" label="Max • 80 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png"/>
+		    <button type="tag" label="Max • 85 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/85km.png"/>
+		</row>
+	</layout>
+	<layout name="90">
+		<row>
+		    <button type="tag" label="Max • 90 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/90km.png"/>
+		    <button type="tag" label="Max • 95 Km/H" icon="Penegakan_Lalu_Lintas_Indonesia_icons/95km.png"/>
+		</row>
+	</layout>
+	
+</layouts>
+<!--This button layout for OSMTracker is made by pizzaisbroken (pizzaisbroken/osmtracker-penegakan-lalu-lintas-indonesia/master) - Version 4.1-->
