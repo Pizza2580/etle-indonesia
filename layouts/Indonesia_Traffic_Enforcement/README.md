@@ -1,2 +1,2 @@
-## Tata Letak Penegakan Lalu Lintas Indonesia untuk OSMTracker
-Direkomendasikan untuk digunakan hanya pada saat mengemudi kendaraan
+## Indonesia Traffic Enforcement Button Preset Layout for OSMTracker
+It is recommended to only be used while riding a vehicle
