@@ -7,7 +7,7 @@
 		</row>
 		<row>
 	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png" iconpos="auto"/>
-	            <button type="page" label="Rmb-Rmb P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png" iconpos="auto"/>
+	            <button type="page" label="R'u-R'u P'ngatan ETLE" targetlayout="rambu_rambu_peringatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png" iconpos="auto"/>
 		</row>
 	        <row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
@@ -61,9 +61,9 @@
         </layout>
 	<layout name="rambu_rambu_peringatan">
 		<row>
-                    <button type="tag" label="R'b P'ngatan ETLE" icon="Penegakan_Lalu_Lintas_Indonesia_icons/cctvspeedwarning.png"/>
-		    <button type="tag" label="R'b Radar Kec." icon="Penegakan_Lalu_Lintas_Indonesia_icons/radarspeedsign.png"/>
-		    <button type="tag" label="R'b ETLE di Depan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png"/>
+                    <button type="tag" label="R'u P'ngatan ETLE" icon="Penegakan_Lalu_Lintas_Indonesia_icons/cctvspeedwarning.png"/>
+		    <button type="tag" label="R'u Radar Kec." icon="Penegakan_Lalu_Lintas_Indonesia_icons/radarspeedsign.png"/>
+		    <button type="tag" label="R'u ETLE di Depan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etletrafficsign.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
