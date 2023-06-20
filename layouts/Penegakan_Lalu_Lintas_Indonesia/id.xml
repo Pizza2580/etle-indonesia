@@ -3,7 +3,7 @@
         <layout name="root">
 		<row>
 		    <button type="page" label="Kam. Kec." targetlayout="kamera_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/speedcamera.png" iconpos="auto"/>
-		    <button type="page" label="Kam. Lampu Lantas" targetlayout="kamera_lampu_lalu_lintas" icon="Penegakan_Lalu_Lintas_Indonesia_icons/redlightcam.png" iconpos="auto"/>
+		    <button type="page" label="Kam. Lampu Merah" targetlayout="kamera_lampu_lalu_lintas" icon="Penegakan_Lalu_Lintas_Indonesia_icons/redlightcam.png" iconpos="auto"/>
 		</row>
 		<row>
 	            <button type="page" label="Batas Kec." targetlayout="batas_kecepatan" icon="Penegakan_Lalu_Lintas_Indonesia_icons/80km.png" iconpos="auto"/>
@@ -44,12 +44,12 @@
         </layout>
 	<layout name="kamera_lampu_lalu_lintas">
 		<row>
-		    <button type="tag" label="Jl. • Depan • Lampu" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightfront.png"/>
-		    <button type="tag" label="Jl. • Bel'ng • Lampu" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightback.png"/>
+		    <button type="tag" label="Jl. • Depan • KLM" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightfront.png"/>
+		    <button type="tag" label="Jl. • Bel'ng • KLM" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightback.png"/>
                 </row>
                 <row>
-		    <button type="tag" label="Jl. • Keduanya • Lampu" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightboth.png"/>
-		    <button type="tag" label="Jl. • Kubah • Lampu" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightdome.png"/>
+		    <button type="tag" label="Jl. • Keduanya • KLM" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightboth.png"/>
+		    <button type="tag" label="Jl. • Kubah • KLM" icon="Penegakan_Lalu_Lintas_Indonesia_icons/etleredlightdome.png"/>
 		</row>
 		<row>
 		    <button type="picture" label="Foto" icon="logo_camera"/>
