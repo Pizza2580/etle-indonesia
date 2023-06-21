@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Anda dapat menggunakan tata letak tombol ini di OSMTracker Anda <br> dengan cara memasukan ini di pengaturan "Button presets": <br><br> <p align="left">👉 Github username: pizzaisbroken <br> 👉 Repository name: osmtracker-penegakan-lalu-lintas-indonesia <br> 👉 Branch name: master</p></h4>
+<h4 align="center">Anda dapat menggunakan tata letak tombol ini di OSMTracker Anda dengan cara memasukan ini di pengaturan "Button presets": <br><br> <p align="left">👉 Github username: pizzaisbroken <br> 👉 Repository name: osmtracker-penegakan-lalu-lintas-indonesia <br> 👉 Branch name: master</p></h4>
 
 ###
 
